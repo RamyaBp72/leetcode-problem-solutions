@@ -9,7 +9,7 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 - Uploaded for learning and tracking progress
 
 ## 📊 Progress
-- Total Problems Solved: **51**
+- Total Problems Solved: **58**
 - Language Used: **Python**
 
 ## 📂 Problem List
@@ -22,7 +22,7 @@ This repository contains my solutions to LeetCode problems as part of my Data St
 | ... | ... | ... |
 
 ## 🎯 Goal
-- Solve **300+ LeetCode problems**
+- Solve **400+ LeetCode problems**
 - Strengthen problem-solving skills
 - Prepare for Software Developer interviews
 
